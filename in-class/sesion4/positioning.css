@@ -1,0 +1,51 @@
+body{ 
+    background-image: url("images/iny.jpg");
+background-position: auto;
+background-size: 250px;
+
+
+}
+
+
+
+.box{
+    width: 10rem;
+    height: 10rem;
+    background: lightpink;
+    position: absolute;
+    margin: 1rem;
+
+}
+
+#box1 {
+    position: absolute;
+    background: gold;
+    left: 50px;
+    top: 100px;
+    z-index: 10;
+
+}
+
+#box2 { 
+    position: absolute;
+    backgorund: limegreen;
+    right: 10px;
+    top: 2000px;
+
+}
+
+#box3 {
+    position: aboslute;
+    background: cornflowerblue;
+    z-index: 10;
+
+}
+
+#box4 {
+    background: orange;
+    position: fixed;
+    z-index: 20;
+    right: 10px;
+    top: 300px;
+
+}
