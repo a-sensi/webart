@@ -1,0 +1,185 @@
+* {
+    cursor: url(https://cur.cursors-4u.net/toons/too-7/too682.cur), auto !important;
+}
+
+body { 
+    text-align: center;
+    height: 300vh;
+    background-image: url("https://64.media.tumblr.com/3f5e0146df8df02d0bc61b8e2f92c4de/7e48c2919b952589-6a/s400x600/ac977c4e4c6bc9233a1230b0670b67df421ec42f.gifv");
+    font-family: monospace;
+    background-attachment: fixed; 
+   /* border: solid orange;*/ 
+    background-color: #dcffb8; 
+
+}
+
+.info{
+    background: url("https://i.pinimg.com/474x/b8/10/17/b8101738e548163179ef91cd16f2af25.jpg");
+    border: .25rem solid #FF7E29;
+    background-position:center;
+    background-size: cover;
+    position:absolute;
+    margin-bottom: 1rem;
+    width: 20%;
+    height: 10rem;
+    left: 25%;
+    top: 25%;
+    transform: translate(-60%, -50%);
+    
+     /*(left: 2rem;
+     top: 100px;*/
+     
+}
+
+.about{
+    font-size: 3rem;
+    margin: 0rem;
+    color: #E75900;
+}
+
+#about-text{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    max-width: 10ch;
+    font-size:1rem;
+}
+
+h1{ 
+    color: cornflowerblue;
+    padding: 1rem;
+    margin: 0 auto;
+    width: 15rem;
+    background-image: url("https://i.pinimg.com/originals/aa/b1/d2/aab1d25c667e0c7519e872a7d814dbe9.gif");
+    background-position: center;
+    
+
+}
+
+.ghost{
+   
+    background-position:center;
+    background-size: cover;
+    position:absolute;
+    margin-bottom: 1rem;
+  
+    height: 11rem;
+    right: 25%;
+    top: 20%;
+    transform: translate(60%, -50%);
+}
+.wings{ 
+    padding: 1rem;
+    margin: 1rem 25%;
+    background-size:contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 10rem;
+    transition: all .2s;
+    
+}
+
+.wings:hover{
+    height: 15rem;
+}
+
+.header{
+    background: url("https://i.pinimg.com/474x/ef/3e/f1/ef3ef1449d96ab50a12f5ee183516eee.jpg");
+    background-position: center;
+    background-size: contain;
+    width: 25rem;
+    height: 1rem;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    
+}
+
+.mainbody{
+    background: url("https://i.pinimg.com/474x/38/20/6d/38206dbeb8959091ecd444e2e247abb3.jpg");
+    background-position: center;
+    background-size:inherit;
+    border: .25rem solid #FF7E29;
+    width: 25rem;
+    height: 40rem;
+    margin: 0 auto;
+    padding: 10px;
+
+
+}
+
+.rightbox {
+     background-size: cover;
+     background-position: center;
+     position: fixed; 
+     right: 1rem;
+     top: 300px;
+     width: 10rem;
+     height: 10rem;
+
+ }
+
+   #box2 {
+        top: 480px;
+        width: 5rem;
+        height: 5rem;
+        right: 4rem;
+
+   }
+   #cat{
+       top: 590px;
+       height: 5rem;
+   }
+ 
+.leftbox {
+    background-size: cover;
+     background-position: center;
+     position: fixed; 
+     left: 2rem;
+     top: 300px;
+     width: 7rem;
+     height: 7rem;
+}
+    #teeth{ 
+        top: 420px;
+    }
+
+    #snufkin{ 
+        top: 540px;
+        height: 10rem;
+    }
+
+#end{
+    bottom: 2rem;
+    margin-top: 1rem;
+}
+.river{
+    width: 20vw;
+    margin: 1rem;
+    background-position: center;
+    background-size:contain;
+    position: absolute;
+    left: 16%;
+top: 66rem;
+z-index: -4;
+}
+
+.lake{
+    
+    width: 20vw;
+    margin-top: 2rem;
+    background-position: center;
+    background-size:contain;
+}
+
+.fish{
+    width: 20vw;
+    margin: 1rem;
+    background-position: center;
+    background-size:contain;
+    position: absolute;
+    top: 65rem;
+    z-index: -3;
+}
+/*list of books to read,
+menu-- "home" "books", 
+image-bank?,  */
+    

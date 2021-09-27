@@ -1,0 +1,17 @@
+body {
+    height: 300vh; 
+    
+}
+
+.container-absolute {
+    background: purple;
+    width: 10rem;
+    height: 10rem;
+    color: white;
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+
+}
