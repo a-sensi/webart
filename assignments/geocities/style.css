@@ -1,7 +1,12 @@
 * {
     cursor: url(https://cur.cursors-4u.net/toons/too-7/too682.cur), auto !important;
 }
-
+h1 {
+    font-family: eckmannpsych-medium, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+}
 body { 
     text-align: center;
     height: 300vh;
@@ -32,7 +37,10 @@ body {
 }
 
 .about{
-    font-size: 3rem;
+    font-family: cheee-jimbo, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
     margin: 0rem;
     color: #E75900;
 }
@@ -99,13 +107,22 @@ h1{
     background-size:inherit;
     border: .25rem solid #FF7E29;
     width: 25rem;
-    height: 40rem;
+    height: 45rem;
     margin: 0 auto;
     padding: 10px;
-
+    position: relative;
 
 }
+.cover1{
+    margin: auto;
+    margin-top: 2rem;
+    width: 75%;
+}
 
+.cover2 {
+    margin-top: 2rem;
+    width: 65%;
+}
 .rightbox {
      background-size: cover;
      background-position: center;
@@ -151,35 +168,22 @@ h1{
     bottom: 2rem;
     margin-top: 1rem;
 }
-.river{
-    width: 20vw;
+
+.gallery{
+
+    height: 10rem;
     margin: 1rem;
-    background-position: center;
-    background-size:contain;
-    position: absolute;
-    left: 16%;
-top: 66rem;
-z-index: -4;
+    border: .25rem solid #FF7E29;
+   
+    left: 25%;
+    top: 25%;
+    
+    width: auto;
+   
+
 }
 
-.lake{
-    
-    width: 20vw;
-    margin-top: 2rem;
-    background-position: center;
-    background-size:contain;
-}
 
-.fish{
-    width: 20vw;
-    margin: 1rem;
-    background-position: center;
-    background-size:contain;
-    position: absolute;
-    top: 65rem;
-    z-index: -3;
-}
-/*list of books to read,
-menu-- "home" "books", 
-image-bank?,  */
-    
+
+
+
